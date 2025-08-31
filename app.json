@@ -3,7 +3,11 @@
     "name": "orgnizebetter",
     "slug": "orgnizebetter",
     "version": "1.0.0",
+<<<<<<< HEAD
      "scheme": "orgnizebetter",
+=======
+    "scheme": "orgnizebetter",
+>>>>>>> 4cb02bd03b04d43d0c0e4ea15cbb1f6fe030136d
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
